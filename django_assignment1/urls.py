@@ -19,6 +19,3 @@ from django.urls import path
 urlpatterns = [
     path("admin/", admin.site.urls),
 ]
-
-
-# git assignment 변경 사항
